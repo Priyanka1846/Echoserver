@@ -19,8 +19,8 @@ Implementation using Python code
 
 Testing the server and client 
 
-## PROGRAM:
-# SERVER:
+# PROGRAM:
+## SERVER:
 
 ```python
 import socket
@@ -44,7 +44,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ```
 
-# CLIENT:
+## CLIENT:
 
 ```python
 import socket
