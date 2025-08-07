@@ -5,7 +5,7 @@ Echo server and client using python socket
 
 To develop a simple webserver to serve html programming pages.
 
-## DESIGN STEPS:
+# DESIGN STEPS:
 
 ### Step 1:
 
@@ -65,11 +65,11 @@ print(f"Received {data!r}")
 ```
 
 
-## OUTPUT:
+# OUTPUT:
 
 <img width="1913" height="338" alt="image" src="https://github.com/user-attachments/assets/ae92fdba-c630-482e-8a15-93c8ea6ee610" />
 
 
 
-## RESULT:
+# RESULT:
 The program is executed successfully
